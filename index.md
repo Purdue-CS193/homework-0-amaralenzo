@@ -1,4 +1,3 @@
-# Enzo's First CS193 Homework
 ### Enzo Alexandre Sant'Anna Amaral, Purdue Computer Science 2027 class
 ## What I like about CS193:
 
