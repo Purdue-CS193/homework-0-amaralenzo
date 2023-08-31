@@ -1,4 +1,3 @@
-
 # Enzo's First CS193 Homework!
 Enzo Alexandre Sant'Anna Amaral, Purdue Computer Science freshman
 
